@@ -1,4 +1,5 @@
 #summary A quick walkthrough on winChain 1.0
+#labels Featured
 
 == What is winChain Builder? ==
 
